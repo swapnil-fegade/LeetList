@@ -13,7 +13,7 @@ class Solution {
                 left++;
             }
         }
-        int[] arr = new int[2];
-        return arr;
+        
+        return new int[2];
     }
 }
